@@ -12,7 +12,7 @@ We looked at scientific publications that make a significant contribution to res
 Open Academic Graph (OAG) is a large knowledge graph unifying
 [Microsoft Academic Graph (MAG)](https://academic.microsoft.com/) and [AMiner](https://aminer.org/).
 Two projects' major purpose is to develop a heterogeneous graph comprising scientific publication records and citation linkages between those articles, as well as authors, institutions, journals, conferences, and fields of study. 
-After unifying the two datasets, the result can be found [here](https://www.aminer.cn/oag-2-1).
+After unifying the two datasets, the result can be found [here](https://open.aminer.cn/open/article?id=67aaf63af4cbd12984b6a5f0#6560229678832c256e9f32a6).
 
 The dataset contains many tables, as:
 
